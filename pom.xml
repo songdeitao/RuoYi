@@ -10,12 +10,6 @@
     <name>ruoyi</name>
     <url>http://www.ruoyi.vip</url>
     <description>若依管理系统</description>
-
-    
-
-
-    
-
     <properties>
         <ruoyi.version>4.7.7</ruoyi.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
